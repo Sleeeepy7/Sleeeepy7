@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sleeeepy7
-- 👀 I’m interested in django(stack DRF,redis,celery)
+- 👀 Junior python django developer
 - 🌱 I’m currently learning all 
-- 💞️ I’m looking to collaborate with any company
 - 📫 How to reach me: vadim.1.95@mail.ru
 - ✨Phone: +79960751168
 
