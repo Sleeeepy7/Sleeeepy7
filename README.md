@@ -4,9 +4,7 @@
 - 📫 How to reach me: vadim.1.95@mail.ru
 - ✨Phone: +79960751168
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleeeepy7)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeeepy7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sleeeepy7&theme=solarized_dark)
 
 <!---
 Sleeeepy7/Sleeeepy7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
