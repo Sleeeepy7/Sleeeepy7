@@ -1,4 +1,4 @@
-- 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Sleeepy)](https://git.io/typing-svg)
+- 👋 Sleeepy
 - 👀 Junior python django developer
 - 🌱 I’m currently learning all 
 - 📫 How to reach me: vadim.1.95@mail.ru
