@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleeeepy7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleeeepy7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeeepy7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Sleeeepy7/Sleeeepy7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
